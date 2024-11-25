@@ -43,7 +43,7 @@ sr = 22050
 # Target shape 
 # CNN: 224 
 # TSC: None
-target_shape = None
+target_shape = 224
 # Flattening the data
 flatten = False
 # Number of epochs
